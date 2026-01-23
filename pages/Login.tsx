@@ -56,15 +56,15 @@ export default function Login() {
       <LoginHeader />
       {/* Login Form */}
       <main className="flex-1 px-6 pb-8 mt-10">
-        <div className="max-w-sm mx-auto">
+        <div className="max-w-md mx-auto">
           <Image src="https://i.postimg.cc/HnpRDtRy/deletenow.jpg" alt="dudsjhds" width={1050} height={1050} className="mx-auto h-[30px] mb-6" />
 
-          <div className="rounded-sm p-6 pb-10">
-            <p className="text-left font-semibold text-[#22263f] text-2xl pb-5">Secure Login</p>
+          <div className="rounded-sm px-4 p-6 pb-10">
+            <p className="text-left font-semibold text-[#22263f] text-2xl pb-5 mb-3">Secure Login</p>
             <form onSubmit={handleSubmit} className="space-y-7">
-              <div className="space-y-3">
+              <div className="space-y-2">
                 <Label htmlFor="username" className="text-[#22263f] font-normal">
-                  Username or Email
+                  Email address
                 </Label>
                 <Input
                   id="username"
@@ -77,7 +77,7 @@ export default function Login() {
                 />
               </div>
 
-              <div className="space-y-3">
+              <div className="space-y-2">
                 <Label htmlFor="password" className="text-[#22263f] font-normal">
                   Password
                 </Label>

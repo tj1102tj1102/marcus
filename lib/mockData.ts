@@ -135,13 +135,13 @@ export const users: User[] = [
   },
   {
     id: '0002',
-    firstName: 'James',
-    lastName: 'Fletcher',
+    firstName: 'George',
+    lastName: 'Miller',
     email: 'gs**@gmail.com',
     username: 'gsachs797@gmail.com',
     password: 'Samantha1962',
     transactionCode: '7894',
-    createdAt: '2026-1-22',
+    createdAt: '2026-1-23',
     transactionMsg: 'Your account is on hold. You cannot make transactions right now. Please contact our customer service team for assistance.',
     accounts: [
       {
