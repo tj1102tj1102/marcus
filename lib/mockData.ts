@@ -158,6 +158,146 @@ export const users: User[] = [
             amount: 7680,
             status: 'success'
           },
+          {
+            merchant: 'Transfer from John Matthews',
+            category: '****4389',
+            date: 'Oct 2, 2025',
+            amount: 16000.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Amazon Services LLC',
+            category: '****1663',
+            date: 'Sep 24, 2025',
+            amount: 15500.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Uber',
+            category: '****2625',
+            date: 'Sep 22, 2025',
+            amount: -2450.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Sarah Thompson',
+            category: '****3667',
+            date: 'Sep 10, 2025',
+            amount: 14800.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Microsoft Corporation',
+            category: '****2535',
+            date: 'Aug 28, 2025',
+            amount: 16250.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Starbucks - Food & Drink',
+            category: '****9037',
+            date: 'Aug 23, 2025',
+            amount: -860.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Daniel Roberts',
+            category: '****7543',
+            date: 'Aug 12, 2025',
+            amount: 13900.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Apple Inc.',
+            category: '****3774',
+            date: 'Jul 30, 2025',
+            amount: 15120.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Amazon Online Purchase',
+            category: '****8746',
+            date: 'July 17, 2025',
+            amount: -7320.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Emily Johnson',
+            category: '****3667',
+            date: 'Jul 14, 2025',
+            amount: 14780.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Netflix Inc.',
+            category: '****4654',
+            date: 'Jun 29, 2025',
+            amount: 15860.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Michael Brown',
+            category: '****8213',
+            date: 'Jun 15, 2025',
+            amount: 14240.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Shopify Inc.',
+            category: '****9124',
+            date: 'Jun 1, 2025',
+            amount: 15010.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Olivia Martinez',
+            category: '****3478',
+            date: 'May 18, 2025',
+            amount: 13690.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Google LLC',
+            category: '****5682',
+            date: 'May 4, 2025',
+            amount: 15930.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from David Wilson',
+            category: '****7741',
+            date: 'Apr 20, 2025',
+            amount: 14450.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Meta Platforms Inc.',
+            category: '****2298',
+            date: 'Apr 6, 2025',
+            amount: 15260.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Sophia Anderson',
+            category: '****6812',
+            date: 'Mar 22, 2025',
+            amount: 14100.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Tesla Inc.',
+            category: '****9034',
+            date: 'Mar 10, 2025',
+            amount: 16000.0,
+            status: 'success'
+          },
+          {
+            merchant: 'Transfer from Robert Collins',
+            category: '****1147',
+            date: 'Mar 1, 2025',
+            amount: 11780.0,
+            status: 'success'
+          }
         ]
       },
       {
@@ -183,5 +323,5 @@ export const users: User[] = [
         createdAt: '2021-09-10'
       }
     ]
-  },
+  }
 ];
