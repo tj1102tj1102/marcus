@@ -152,6 +152,13 @@ export const users: User[] = [
         isPrimary: true,
         transactions: [
           {
+            merchant: 'Transfer from Samantha smith',
+            category: '****3673',
+            date: 'February 4, 2026',
+            amount: 3000,
+            status: 'success'
+          },
+          {
             merchant: 'Transfer from Mark Omah',
             category: '****4721',
             date: 'Dec 20, 2025',
